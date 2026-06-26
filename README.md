@@ -2,7 +2,7 @@
 blender addon for mgsv import wip (export still a wip)
 # import-metal-gear-solid-v
 
-A Blender addon to import Metal Gear Solid V FMDL model files.
+A Blender addon to import Metal Gear Solid V FMDL model files. 4.0 till 2.8 blender version
 
 ## What it does
 Lets you pull FMDL models straight into Blender. Brings in the mesh, bones, normals, and UVs. Handles the coordinate system flip that Fox Engine uses so you don't have to worry about it.
