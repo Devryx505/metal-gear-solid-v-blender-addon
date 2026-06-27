@@ -1,7 +1,7 @@
-# Metal Gear Solid V FMDL Import - export still wip
+# Metal Gear Solid V FMDL Import & export still wip
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Blender-Community_Addon-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender Version Compatibility"/>
+  <img src="https://img.shields.io/badge/Blender-2.8_--_4.0-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender Version Compatibility"/>
   <img src="https://img.shields.io/badge/Addon_Version-v1.0.0_WIP-inactive?style=for-the-badge" alt="Addon Version"/>
 </p>
 
@@ -20,7 +20,7 @@ This Blender add-on provides a robust pipeline for importing Fox Engine FMDL mod
 | Attribute | Specification |
 | :--- | :--- |
 | **Supported Game Assets** | Metal Gear Solid V: The Phantom Pain / Ground Zeroes (`.fmdl`) |
-| **Blender Version Target** | Blender 2.80 through Blender 4.0.0+ |
+| **Blender Version Target** | Blender 2.8 through Blender 4.0 |
 | **Data Preserved** | Polygonal Meshes, Armature Rigging, Custom Normals, UV Channels |
 
 ---
